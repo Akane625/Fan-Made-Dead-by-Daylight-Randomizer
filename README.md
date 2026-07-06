@@ -5,22 +5,6 @@ The following are the versions made so far:
 - [Version 0](./Version%200) is a purely Python program that requires Python and Pandas to be installed in your computer.
 - [Version 1](./Version%201) is a Tkinter version which still requires Python and Pandas but now it features some basic UI components.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 random note for myself
 - PNG of killers and perks
 - convert to streamlit then call it version 2 (add animations for the randomizer)
