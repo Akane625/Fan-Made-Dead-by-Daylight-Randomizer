@@ -1,5 +1,5 @@
 # Overview
-NOTE: This is a fan-made personal project and **MUST NOT** be deemed as an official product.
+**NOTE: This is a fan-made personal project.**
 
 The killer perk dataset was manually encoded and contains 2 columns 143 rows. It is completed up until the recent chapter as of writing this, which is the `Jason Chapter v10.0.0`.
 
