@@ -10,5 +10,3 @@ The following are the versions made so far:
 random note for myself
 - PNG of killers and perks
 - convert to streamlit then call it version 2 (add animations for the randomizer)
-- convert csv to postgresql
-- convert streeamlit to web dev then call it version 3
