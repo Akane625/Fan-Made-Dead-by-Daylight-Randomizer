@@ -5,12 +5,13 @@
 June 30, 2026 - July 7, 2026
 
 # About the Program
-The killer perk dataset was manually encoded and contains 2 columns 143 rows. It is completed up until the recent chapter as of writing this, which is the `Jason Chapter v10.0.0`.
+The program randomizes 2 columns from the dataset `Killer Perks Dataset.csv` which are the killer and perks. It will select one unique killer and 4 distinct perks (no repetition). The dataset is updated until the chapter `Jason Chapter v10.0.0`.
 
 # Versions
-- [Version 0](./Version%200) is a purely Python program that requires Python and Pandas to be installed in your computer.
-- [Version 1](./Version%201) is a Tkinter version which still requires Python and Pandas but now it features some basic UI components.
+1. [Version 0](./Version%200) (raw) - A pure Python script that runs on your IDE. This version is just randomizing no filters. Python and Pandas are required to run the program.
+2. [Version 1](./Version%201) (primal app) - A Tkinter app that outputs a desktop app with simple UI. This version adds filters. Python, Pandas, and Tkinter are required to run this program.
+3. [Version 2](./Version%202) (web app) = A Streamlit website version. Python, Pandas, Streamlit are required to run this program
 
-random note for myself
-- PNG of killers and perks
-- convert to streamlit then call it version 2 (add animations for the randomizer)
+# How to Install
+1. Install Python, Pandas, Tkinter/Streamlit by executing this command in your command prompt `pip install python pandas streamlit` (you can replace streamlit with tkinter)
+2. Download any version and store it in any folder on your desktop (make sure all the files are in the same folder)
