@@ -1,8 +1,6 @@
 # Overview
-**NOTE: This is a fan-made personal project.**
-
-# Created
-June 30, 2026 - July 7, 2026
+**NOTE: This is a fan-made personal project.**  
+Created: June 30, 2026 - July 7, 2026
 
 # About the Program
 The program randomizes 2 columns from the dataset `Killer Perks Dataset.csv` which are the killer and perks. It will select one unique killer and 4 distinct perks (no repetition). The dataset is updated until the chapter `Jason Chapter v10.0.0`.
