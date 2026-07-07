@@ -16,3 +16,5 @@ The program randomizes 2 columns from the dataset `Killer Perks Dataset.csv` whi
 3. Open VSCode, Pycharm or any related environments and run the program. If you're using streamlit, open a terminal and run `streamlit run "Killer Randomizer App 3.py"`
 
 Note: Make sure you are running all this in the folder you stored the files in
+
+PS: This code was aided with AI (Claude)
