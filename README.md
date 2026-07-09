@@ -19,4 +19,4 @@ The program randomizes 2 columns from the dataset `Killer Perks Dataset.csv` whi
 
 Note: Make sure you are running all this in the folder you stored the files in
 
-PS: The code was aided with AI (Claude)
+PS: The code was aided with Anthropic's Claude
