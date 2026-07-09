@@ -11,10 +11,12 @@ The program randomizes 2 columns from the dataset `Killer Perks Dataset.csv` whi
 3. [Version 2](./Version%202) (web app) - A Streamlit website version. Python, Pandas, Streamlit are required to run this program. Publishing is debated (anyone can acccess no download required).
 
 # How to Install
-1. Install Python, Pandas, Tkinter/Streamlit by executing this command in your command prompt `pip install python pandas streamlit` (you can replace streamlit with tkinter)
+1. Install [Python](https://www.python.org/downloads/)
 2. Download any version and store it in any folder on your desktop (make sure all the files are in the same folder)
-3. Open VSCode, Pycharm or any related environments and run the program. If you're using streamlit, open a terminal and run `streamlit run "Killer Randomizer App 3.py"`
+3. In command prompt (cmd) run `pip install -r requirements.txt` to install the libraries necessary
+4. Open [VSCode](https://code.visualstudio.com/), [Pycharm](https://www.jetbrains.com/pycharm/download/?section=windows) or any related environments
+5. Open a terminal or command prompt, then run `streamlit run "Killer Randomizer App 3.py"`
 
 Note: Make sure you are running all this in the folder you stored the files in
 
-PS: This code was aided with AI (Claude)
+PS: The code was aided with AI (Claude)
