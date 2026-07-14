@@ -19,6 +19,6 @@ The program randomizes 2 columns from the dataset `Killer Perks Dataset.csv` whi
 
 Note: Make sure you are running all this in the folder you stored the files in
 
-PS: The code was aided with Anthropic's Claude
-
 The publishing/deployment of this streamlit app is not going to be considered.
+
+PS: The code was aided with Anthropic's Claude
